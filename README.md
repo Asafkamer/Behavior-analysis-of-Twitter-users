@@ -1,3 +1,5 @@
+My Project
+
 Data Science and Machine Learning Project Description:
 
 This project focuses on collecting data from the Twitter API and leveraging machine learning techniques to classify various problems. By utilizing the Twitter API, a large volume of data is gathered, which is then processed to extract relevant information. The collected data is subjected to data preprocessing steps such as cleaning, feature extraction, and transformation.
